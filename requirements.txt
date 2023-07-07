@@ -57,7 +57,8 @@ debugpy==1.6.6
 decorator==5.1.1
 Deprecated==1.2.13
 dill==0.3.1.1
-Django==4.2
+Django==4.2.2
+django-cors-headers==4.1.0
 django-crispy-forms==2.0
 dnspython==2.3.0
 docopt==0.6.2
@@ -167,6 +168,7 @@ prometheus-client==0.16.0
 prompt-toolkit==3.0.38
 protobuf==3.20.3
 psutil==5.9.4
+psycopg2-binary==2.9.6
 pure-eval==0.2.2
 py2exe==0.13.0.0
 py4j==0.10.9.7
@@ -240,6 +242,7 @@ wcwidth==0.2.6
 webdriver-manager==3.8.6
 websockets==10.4
 Werkzeug==2.2.3
+whitenoise==6.5.0
 wordcloud==1.9.2
 wrapt==1.15.0
 wsproto==1.2.0
