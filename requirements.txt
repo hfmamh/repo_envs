@@ -63,6 +63,8 @@ django-crispy-forms==2.0
 dnspython==2.3.0
 docopt==0.6.2
 docutils==0.19
+docxcompose==1.4.0
+docxtpl==0.16.7
 email-validator==1.3.1
 et-xmlfile==1.1.0
 exceptiongroup==1.1.1
@@ -96,6 +98,7 @@ hyperframe==6.0.1
 idna==3.4
 ImageHash==4.3.1
 importlib-metadata==6.3.0
+inflect==7.0.0
 inflection==0.5.1
 ipykernel==6.21.2
 ipython==8.10.0
@@ -141,6 +144,7 @@ mysqlclient==2.1.1
 nbformat==5.9.0
 nest-asyncio==1.5.6
 networkx==3.1
+num2words==0.5.12
 numpy==1.23.5
 onedrivesdk==2.0.1
 openai==0.27.2
@@ -186,6 +190,7 @@ PySocks==1.7.1
 pyspark==3.4.0
 python-daemon==3.0.1
 python-dateutil==2.8.2
+python-docx==0.8.11
 python-dotenv==1.0.0
 python-nvd3==0.15.0
 python-slugify==8.0.1
